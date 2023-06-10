@@ -1,0 +1,4 @@
+{"model": "vosk-model-small-en-us-0.15",
+        "chunk": 4096,
+        "channels": 1,
+        "rate": 16000}

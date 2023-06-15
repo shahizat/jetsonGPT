@@ -18,7 +18,6 @@ JetsonGPT is a python based voice assistant that takes two different wake up wor
 * Open a terminal and run Piper TTS server program
 ```
 python3 webserver.py
-
 ```
 * Open another terminal and run a main program
 ```
@@ -31,6 +30,6 @@ The implementation of the project relies on:
 * [Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node](https://github.com/alphacep/vosk-api)
 * [A fast, local neural text to speech system - Piper TTS](https://github.com/rhasspy/piper)
 
-We thank the original authors for their open-sourcing.
+I thank the original authors for their open-sourcing.
 
 
